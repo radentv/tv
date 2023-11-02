@@ -1,0 +1,21 @@
+{
+    "status":"true",
+    "data":[
+       {
+          "portal_type":"xc",
+          "baseUrl":"http://tv.urllista.com:80"
+       },
+       {
+          "portal_type":"xc",
+          "baseUrl":"http://cloud-nany.cc:80"
+       },
+       {
+          "portal_type":"xc",
+          "baseUrl":"http://lista.seupainel.link:8080"
+       },
+       {
+          "portal_type":"xc",
+          "baseUrl":""
+       }
+    ]
+}
